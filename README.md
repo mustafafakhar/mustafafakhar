@@ -5,7 +5,7 @@
 
 🎓 MSc in Global Sustainability Engineering
 📍 Based in the United Kingdom
-**mustafafakhar/mustafafakhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## 📂 Projects
 - [Sustainability_Data_Insights](https://github.com/yourusername/Sustainability_Data_Insights)  
   Analyzing environmental metrics using Python & Pandas.

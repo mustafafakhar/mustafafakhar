@@ -1,5 +1,5 @@
-**Hi there 👋**
-# I am Mustafa Fakhar
+
+## Hi, I am Mustafa Fakhar
 
 🎓 MSc in Global Sustainability Engineering
 📍 Based in the United Kingdom

@@ -5,8 +5,8 @@
 📍 Based in the United Kingdom
 
 ## 📫 Contact
-- 📧 [youremail@gmail.com](mailto:mustafa.fakhar.07@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mustafa-fakhar-1856661b0/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-fakhar-1856661b0/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mustafa.fakhar.07@gmail.com)
 
 
 ## 📂 Projects

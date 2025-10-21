@@ -1,7 +1,6 @@
 ## Hi there 👋
 # I am Mustafa Fakhar
 {https://raw.githubusercontent.com/CLorant/readme-social-icons/main/size/medium/currentColor/linkedin.svg}{https://www.linkedin.com/in/mustafa-fakhar-1856661b0/}
-<!--
 
 🎓 MSc in Global Sustainability Engineering
 📍 Based in the United Kingdom

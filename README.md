@@ -1,4 +1,4 @@
-## Hi there 👋
+**Hi there 👋**
 # I am Mustafa Fakhar
 
 🎓 MSc in Global Sustainability Engineering
